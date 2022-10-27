@@ -7,17 +7,21 @@ Go Language Advanced Programming | https://github.com/zalopay-oss/go-advanced | 
 # Tutorial English
 Document name | URL | Note
 --- | --- | --- |
-Go Official Website | https://go.dev/ | |
+Go Dev | https://go.dev/blog/ <br/> https://go.dev/tour/ <br> https://go.dev/doc/effective_go | |
 Learn Go with Tests | https://quii.gitbook.io/learn-go-with-tests/| |
 Awesome Go | https://github.com/avelino/awesome-go | |
 Software Development, Software Architecture | https://www.youtube.com/c/MarioCarrion | |
 Reddit | https://www.reddit.com/r/golang/ | |
 Roadmap | https://roadmap.sh/golang | |
 Learn Go | https://github.com/karanpratapsingh/learn-go | |
+Golang By Example | https://golangbyexample.com/ | |
+Tutorialedge | https://tutorialedge.net/course/golang/ | |
+
 
 # Ebook
 Name | URL | Note
 --- | --- | --- |
+The Go Programming Language | http://www.gopl.io/ | |
 Golang books | https://github.com/dariubs/GoBooks | |
 Go Books | https://github.com/diptomondal007/GoLangBooks | |
 
@@ -37,6 +41,12 @@ Owner |Project name | URL | Note
  | Iman Tumorang | go-clean-arch | https://github.com/bxcodec/go-clean-arch | |
  | Evrone | Go Clean template | https://github.com/evrone/go-clean-template | |
  | Golang Standards | Standard Go Project Layout | https://github.com/golang-standards/project-layout | |
+
+# Golang Contributor
+
+Owner | URL | Note
+--- | --- | --- |
+| cuonglm | https://snacky.blog/posts/coffee-talk-cuonglm-golang-contributor.html | |
  
 # Source Example
 
