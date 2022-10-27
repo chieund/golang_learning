@@ -13,6 +13,14 @@ Awesome Go | https://github.com/avelino/awesome-go | |
 Software Development, Software Architecture | https://www.youtube.com/c/MarioCarrion | |
 Reddit | https://www.reddit.com/r/golang/ | |
 Roadmap | https://roadmap.sh/golang | |
+Learn Go | https://github.com/karanpratapsingh/learn-go | |
+
+# Ebook
+Name | URL | Note
+--- | --- | --- |
+Golang books | https://github.com/dariubs/GoBooks | |
+Go Books | https://github.com/diptomondal007/GoLangBooks | |
+
 
 # FW Web
 
@@ -26,19 +34,17 @@ Fiber | https://github.com/gofiber/fiber | |
 
 Owner |Project name | URL | Note 
 --- | --- | --- | --- |
- | Iman Tumorang | https://github.com/bxcodec/go-clean-arch | | |
- | Evrone | https://github.com/evrone/go-clean-template | | |
- | Golang Standards | https://github.com/golang-standards/project-layout | | |
+ | Iman Tumorang | go-clean-arch | https://github.com/bxcodec/go-clean-arch | |
+ | Evrone | Go Clean template | https://github.com/evrone/go-clean-template | |
+ | Golang Standards | Standard Go Project Layout | https://github.com/golang-standards/project-layout | |
  
 # Source Example
 
-Owner |Project name | URL | Note
---- | --- | --- | --- |
-| Inancgumus | https://github.com/inancgumus/learngo | | |
-| Tamer Tas | https://github.com/tmrts/go-patterns | | |
-| Techschool | https://github.com/techschool/simplebank | | |
-| Dai Jie | https://github.com/geektutu/7days-golang | | |
+Owner | URL | Note
+--- | --- | --- |
+| Inancgumus | https://github.com/inancgumus/learngo | |
+| Tamer Tas | https://github.com/tmrts/go-patterns | |
+| Techschool | https://github.com/techschool/simplebank | |
+| Dai Jie | https://github.com/geektutu/7days-golang | |
 
 # Group Social
-
-
