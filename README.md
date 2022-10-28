@@ -57,4 +57,14 @@ Owner | URL | Note
 | Techschool | https://github.com/techschool/simplebank | |
 | Dai Jie | https://github.com/geektutu/7days-golang | |
 
+# Algorithms
+
+Owner | URL | Note
+--- | --- | --- |
+| The Algorithms | https://github.com/TheAlgorithms/Go | |
+| halfrost | https://github.com/halfrost/LeetCode-Go | |
+
 # Group Social
+Name | URL | Note
+--- | --- | --- |
+| Telegram | https://t.me/+cyMeRg60ZCwwYzhl | |
