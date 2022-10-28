@@ -21,7 +21,7 @@ Tutorialedge | https://tutorialedge.net/course/golang/ | |
 # Ebook
 Name | URL | Note
 --- | --- | --- |
-The Go Programming Language | http://www.gopl.io/ | |
+The Go Programming Language | https://github.com/heavykenny/book/blob/master/Go/The.Go.Programming.Language.pdf | |
 Golang books | https://github.com/dariubs/GoBooks | |
 Go Books | https://github.com/diptomondal007/GoLangBooks | |
 
