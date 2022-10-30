@@ -10,12 +10,16 @@ Document name | URL | Note
 Go Dev | https://go.dev/blog/ <br/> https://go.dev/tour/ <br> https://go.dev/doc/effective_go | |
 Learn Go with Tests | https://quii.gitbook.io/learn-go-with-tests/| |
 Awesome Go | https://github.com/avelino/awesome-go | |
+Learning More About Go | https://github.com/golang/go/wiki#learning-more-about-go | |
 Software Development, Software Architecture | https://www.youtube.com/c/MarioCarrion | |
 Reddit | https://www.reddit.com/r/golang/ | |
 Roadmap | https://roadmap.sh/golang | |
 Learn Go | https://github.com/karanpratapsingh/learn-go | |
 Golang By Example | https://golangbyexample.com/ | |
 Tutorialedge | https://tutorialedge.net/course/golang/ | |
+Practical Go Lessons | https://www.practical-go-lessons.com/ | |
+golangbot.com | https://golangbot.com/ | |
+
 
 
 # Ebook
