@@ -37,6 +37,7 @@ Framework | URL | Note
 Gin | https://github.com/gin-gonic/gin | |
 Echo | https://github.com/labstack/echo | |
 Fiber | https://github.com/gofiber/fiber | |
+Beego | https://github.com/beego/beego | |
 
 # Project template
 
