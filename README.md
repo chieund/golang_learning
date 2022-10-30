@@ -52,6 +52,13 @@ Owner |Project name | URL | Note
 Owner | URL | Note
 --- | --- | --- |
 | cuonglm | https://snacky.blog/posts/coffee-talk-cuonglm-golang-contributor.html | |
+
+# Clear Code
+
+Name | URL | Note
+--- | --- | --- |
+| Clean Go Code | https://github.com/Pungyeon/clean-go-article | |
+| Mistakes for New Golang Devs | http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/index.html | |
  
 # Source Example
 
