@@ -43,10 +43,11 @@ Beego | https://github.com/beego/beego | |
 
 Owner | Project name | URL | Note 
 --- | --- | --- | --- |
- | Iman Tumorang | go-clean-arch | https://github.com/bxcodec/go-clean-arch | |
- | Evrone | Go Clean template | https://github.com/evrone/go-clean-template | |
+ | Iman Tumorang | go-clean-arch | https://github.com/bxcodec/go-clean-arch | Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture |
+ | Evrone | Go Clean template | https://github.com/evrone/go-clean-template | Clean Architecture template for Golang services |
  | Golang Standards | Standard Go Project Layout | https://github.com/golang-standards/project-layout | |
  | blog.boot.dev | Standard Go Project Layout | https://blog.boot.dev/golang/golang-project-structure/ | |
+ | Kamaleshwar | Goapp | https://github.com/bnkamalesh/goapp | An opinionated guideline to structure & develop a Go web application/service |
 
 # Golang Contributor
 
