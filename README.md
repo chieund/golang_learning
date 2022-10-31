@@ -39,13 +39,14 @@ Echo | https://github.com/labstack/echo | |
 Fiber | https://github.com/gofiber/fiber | |
 Beego | https://github.com/beego/beego | |
 
-# Project template
+# Project Structure template
 
-Owner |Project name | URL | Note 
+Owner | Project name | URL | Note 
 --- | --- | --- | --- |
  | Iman Tumorang | go-clean-arch | https://github.com/bxcodec/go-clean-arch | |
  | Evrone | Go Clean template | https://github.com/evrone/go-clean-template | |
  | Golang Standards | Standard Go Project Layout | https://github.com/golang-standards/project-layout | |
+ | blog.boot.dev | Standard Go Project Layout | https://blog.boot.dev/golang/golang-project-structure/ | |
 
 # Golang Contributor
 
@@ -65,7 +66,7 @@ Name | URL | Note
 Owner | URL | Note
 --- | --- | --- |
 | Inancgumus | https://github.com/inancgumus/learngo | |
-| Tamer Tas | https://github.com/tmrts/go-patterns | |
+| Tamer Tas | https://github.com/tmrts/go-patterns | Curated list of Go design patterns, recipes and idioms |
 | Techschool | https://github.com/techschool/simplebank | |
 | Dai Jie | https://github.com/geektutu/7days-golang | |
 
