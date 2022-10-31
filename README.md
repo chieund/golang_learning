@@ -23,9 +23,9 @@ golangbot.com | https://golangbot.com/ | |
 
 
 # Ebook
-Name | URL | Note
+Name | URL | Source
 --- | --- | --- |
-The Go Programming Language | https://github.com/heavykenny/book/blob/master/Go/The.Go.Programming.Language.pdf | |
+The Go Programming Language | https://github.com/heavykenny/book/blob/master/Go/The.Go.Programming.Language.pdf | https://github.com/adonovan/gopl.io |
 Golang books | https://github.com/dariubs/GoBooks | |
 Go Books | https://github.com/diptomondal007/GoLangBooks | |
 
