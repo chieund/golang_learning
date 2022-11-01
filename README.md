@@ -71,7 +71,7 @@ Name | URL | Note
 
 Owner | URL | Note
 --- | --- | --- |
-| Inancgumus | https://github.com/inancgumus/learngo | |
+| Inancgumus | https://github.com/inancgumus/learngo | ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs |
 | Tamer Tas | https://github.com/tmrts/go-patterns | Curated list of Go design patterns, recipes and idioms |
 | Techschool | https://github.com/techschool/simplebank | |
 | Dai Jie | https://github.com/geektutu/7days-golang | |
