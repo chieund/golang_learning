@@ -89,3 +89,4 @@ Owner | URL | Note
 Name | URL | Note
 --- | --- | --- |
 | Telegram | https://t.me/+cyMeRg60ZCwwYzhl | |
+| Discord | https://discord.gg/KfmSUU2B | |
