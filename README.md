@@ -53,6 +53,14 @@ Owner | Project name | URL | Note
  | Golang Standards | Standard Go Project Layout | https://github.com/golang-standards/project-layout | |
  | blog.boot.dev | Standard Go Project Layout | https://blog.boot.dev/golang/golang-project-structure/ | |
  | Kamaleshwar | Goapp | https://github.com/bnkamalesh/goapp | An opinionated guideline to structure & develop a Go web application/service |
+ | btnguyen2k | GoAdmin | https://github.com/btnguyen2k/goadmin.g8 | Giter8 template to develop Admin Control Panel in Go using Echo framework |
+ | btnguyen2k | GoVueAdmin | https://github.com/btnguyen2k/govueadmin.g8 | Giter8 template to develop Admin Control Panel in Go with VueJS-based frontend |
+
+# Project Template tool
+
+Owner | Project name | URL | Note 
+--- | --- | --- | --- |
+ | btnguyen2k | go-giter8 | https://github.com/btnguyen2k/go-giter8 | A command line tool to generate projects from templates published on git repository |
 
 # Golang Contributor
 
