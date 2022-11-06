@@ -59,6 +59,7 @@ Owner | Project name | URL | Note
 Owner | URL | Note
 --- | --- | --- |
 | cuonglm | https://snacky.blog/posts/coffee-talk-cuonglm-golang-contributor.html | |
+| various | https://goodfirstissue.dev/language/go/ | |
 
 # Clear Code
 
