@@ -105,6 +105,7 @@ Owner | URL | Note
 | hazbo | https://github.com/hazbo/the-super-tiny-compiler | The Super Tiny Compiler |
 | GoogleFOSSSydney | https://www.youtube.com/watch?v=HxaD_trXwRE | Lexical Scanning in Go - Rob Pike |
 | Simon Jürgensmeyer | https://simjue.pages.dev/post/2018/07-01-go-unix-shell/ | Writing a simple shell in Go |
+| kasvith.me | https://kasvith.me/posts/lets-create-a-simple-lb-go/ | Build Load Balancer |
 
 
 # Algorithms
