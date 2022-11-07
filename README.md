@@ -85,6 +85,28 @@ Owner | URL | Note
 | Techschool | https://github.com/techschool/simplebank | |
 | Dai Jie | https://github.com/geektutu/7days-golang | |
 
+# Application Practice Project
+
+Owner | URL | Note
+--- | --- | --- |
+| blog.jse.li | https://blog.jse.li/posts/torrent/ | Building a BitTorrent client from the ground up in Go |
+| jeiwan.net | https://jeiwan.net/posts/building-blockchain-in-go-part-1/ | Building Blockchain in Go |
+| mycoralhealth | https://mycoralhealth.medium.com/code-your-own-blockchain-in-less-than-200-lines-of-go-e296282bcffc | Code your own blockchain in less than 200 lines of Go |
+| flaviocopes.com | https://flaviocopes.com/go-git-contributions/ | Visualize your local git contributions with Go |
+| flaviocopes.com | https://flaviocopes.com/go-tutorial-lolcat/ | Build a command line app with Go: lolcat |
+| flaviocopes.com | https://flaviocopes.com/go-tutorial-cowsay/ | Building a cli command with Go: cowsay |
+| flaviocopes.com | https://flaviocopes.com/go-tutorial-fortune/ | Go CLI tutorial: fortune clone |
+| Julian Friedman | https://www.infoq.com/articles/build-a-container-golang/ | Build Your Own Container Using Less than 100 Lines of Go |
+| GOTO Conferences | https://www.youtube.com/watch?v=8fi7uSYlOdc | Building a container from scratch in Go |
+| Jack Mott | https://www.youtube.com/playlist?list=PLDZujg-VgQlZUy1iCqBbe5faZLMkA3g2x | Games With Go |
+| Matteo Madeddu | https://madeddu.xyz/posts/neuralnetwork/ | Build a multilayer perceptron with Golang |
+| sausheong | https://sausheong.github.io/posts/how-to-build-a-simple-artificial-neural-network-with-go/ | How to build a simple artificial neural network with Go |
+| datadan | https://datadan.io/blog/neural-net-with-go | Building a Neural Net from Scratch in Go |
+| hazbo | https://github.com/hazbo/the-super-tiny-compiler | The Super Tiny Compiler |
+| GoogleFOSSSydney | https://www.youtube.com/watch?v=HxaD_trXwRE | Lexical Scanning in Go - Rob Pike |
+| Simon Jürgensmeyer | https://simjue.pages.dev/post/2018/07-01-go-unix-shell/ | Writing a simple shell in Go |
+
+
 # Algorithms
 
 Owner | URL | Note
