@@ -14,6 +14,7 @@ Learning More About Go | https://github.com/golang/go/wiki#learning-more-about-g
 Eno Compton | https://github.com/enocom/gopher-reading-list | A curated selection of blog posts on Go |
 Reddit | https://www.reddit.com/r/golang/ | |
 Roadmap | https://roadmap.sh/golang | |
+Golang Developer Roadmap | https://github.com/Alikhll/golang-developer-roadmap | |
 Learn Go | https://github.com/karanpratapsingh/learn-go | |
 Golang By Example | https://golangbyexample.com/ | |
 Tutorialedge | https://tutorialedge.net/course/golang/ | |
