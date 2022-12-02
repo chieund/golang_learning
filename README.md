@@ -85,6 +85,7 @@ Owner | URL | Note
 | Tamer Tas | https://github.com/tmrts/go-patterns | Curated list of Go design patterns, recipes and idioms |
 | Techschool | https://github.com/techschool/simplebank | |
 | Dai Jie | https://github.com/geektutu/7days-golang | |
+| Thang Chung | https://github.com/thangchung/go-coffeeshop | A practical event-driven microservices demo built with Golang. Nomad, Consul Connect, Vault, and Terraform for deployment |
 
 # Application Practice Project
 
