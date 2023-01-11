@@ -21,6 +21,8 @@ Tutorialedge | https://tutorialedge.net/course/golang/ | |
 Practical Go Lessons | https://www.practical-go-lessons.com/ | |
 golangbot.com | https://golangbot.com/ | |
 gophercises.com | https://gophercises.com/ | Gophercises - coding exercises for budding gophers |
+gyuho | https://github.com/gyuho/learn#go | |
+
 
 
 # Ebook
