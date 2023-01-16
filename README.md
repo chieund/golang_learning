@@ -78,6 +78,8 @@ Name | URL | Note
 --- | --- | --- |
 | Clean Go Code | https://github.com/Pungyeon/clean-go-article | |
 | Mistakes for New Golang Devs | http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/index.html | |
+| Uber Go Style Guide | https://github.com/uber-go/guide/blob/master/style.md | |
+
  
 # Source Example
 
