@@ -121,6 +121,8 @@ Owner | URL | Note
 | The Algorithms | https://github.com/TheAlgorithms/Go | Algorithms implemented in Go for beginners, following best practices. |
 | halfrost | https://github.com/halfrost/LeetCode-Go | Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解 |
 | Kyle Liu | https://github.com/kylesliu/awesome-golang-algorithm | LeetCode of algorithms with golang solution |
+| Emir Pasic | https://github.com/emirpasic/gods | GoDS (Go Data Structures) - Sets, Lists, Stacks, Maps, Trees, Queues, and much more |
+
 
 
 # Group Social
