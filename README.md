@@ -122,7 +122,7 @@ Owner | URL | Note
 | halfrost | https://github.com/halfrost/LeetCode-Go | Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解 |
 | Kyle Liu | https://github.com/kylesliu/awesome-golang-algorithm | LeetCode of algorithms with golang solution |
 | Emir Pasic | https://github.com/emirpasic/gods | GoDS (Go Data Structures) - Sets, Lists, Stacks, Maps, Trees, Queues, and much more |
-
+| kylesliu | https://github.com/kylesliu/awesome-golang-algorithm | LeetCode of algorithms with golang solution(updating). |
 
 
 # Group Social
