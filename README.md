@@ -130,7 +130,7 @@ Owner | URL | Note
 # Group Social
 Name | URL | Note
 --- | --- | --- |
-| Telegram | https://t.me/+cyMeRg60ZCwwYzhl | Group Learning Golang Fromt Vietnames |
+| Telegram | https://t.me/golang_vietnam_learning | Group Learning Golang From Vietnames |
 | Discord | https://discord.gg/KfmSUU2B | |
 
 # Support me
