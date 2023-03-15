@@ -123,6 +123,8 @@ Owner | URL | Note
 | Kyle Liu | https://github.com/kylesliu/awesome-golang-algorithm | LeetCode of algorithms with golang solution |
 | Emir Pasic | https://github.com/emirpasic/gods | GoDS (Go Data Structures) - Sets, Lists, Stacks, Maps, Trees, Queues, and much more |
 | kylesliu | https://github.com/kylesliu/awesome-golang-algorithm | LeetCode of algorithms with golang solution(updating). |
+| aQuaYi | https://github.com/aQuaYi/LeetCode-in-Go | Go Solution for LeetCode algorithms problems, 100% coverage. |
+
 
 
 # Group Social
